@@ -1,4 +1,4 @@
-# React-Native-DiscoveryPlaceApp
+# React-Native-PlacesDiscoveryApp
 
 • Using Native Device Features
 
