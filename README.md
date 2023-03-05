@@ -7,3 +7,5 @@
 • User Location and Maps
 
 • Storing data on the Device
+
+• SQLite
