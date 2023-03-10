@@ -8,4 +8,4 @@
 
 • Storing data on the Device
 
-• SQLite (Stored Locally)
+• SQLite (Stored Locally Data)
